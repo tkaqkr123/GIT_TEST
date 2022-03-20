@@ -15,4 +15,6 @@ public class CommitTest3 {
     // TEST3-3
 
     // TEST4
+
+    // TEST5
 }
