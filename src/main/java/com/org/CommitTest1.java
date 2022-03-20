@@ -6,4 +6,6 @@ public class CommitTest1 {
     // TEST1
 
     // TEST1-2
+
+    // TEST1-3
 }
