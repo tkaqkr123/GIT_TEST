@@ -11,7 +11,6 @@ public class CommitTest3 {
 
     // TEST3-1
 
-    // TEST3-2
 
     // TEST3-3
 
